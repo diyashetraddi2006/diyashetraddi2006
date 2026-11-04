@@ -114,11 +114,6 @@ Actively involved in organizing and coordinating technical, educational and awar
 ---
 
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyashetraddi2006&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyashetraddi2006&layout=compact&theme=tokyonight)
 
 ## 🤝 Let's Connect!
 
