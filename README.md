@@ -19,28 +19,24 @@ I enjoy working at the intersection of hardware and software, particularly in em
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack & Tools
 
-**Programming Languages**
-- C language
-- Python
-- Verilog HDL
-- MicroPython
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20HDL-8A2BE2?style=for-the-badge&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 
-**Hardware & Embedded Systems**
-- ESP32
-- Arduino
-- FPGA
-- Sensor Interfacing
-- I²C Communication
+### Hardware & Embedded Systems
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Tools & Platforms**
-- Xilinx Vivado
-- VS Code
-- Arduino IDE
-- Thonny
-- ThingSpeak
-- Git & GitHub
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-4B8BBE?style=for-the-badge&logoColor=white)
 
 **Areas of Interest**
 - Embedded Systems
