@@ -31,12 +31,18 @@ I enjoy working at the intersection of hardware and software, particularly in em
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠️ Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Thonny](https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-4B8BBE?style=for-the-badge&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil_uVision-394049?style=for-the-badge&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge&logo=onshape&logoColor=white)
+![Thonny](https://img.shields.io/badge/MicroPython_IDE-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 
 **Areas of Interest**
 - Embedded Systems
@@ -45,6 +51,13 @@ I enjoy working at the intersection of hardware and software, particularly in em
 - FPGA Development
 - Hardware–Software Integration
 - Machine Learning
+
+## 📚 Currently Learning
+
+- Advanced Embedded Systems
+- FPGA Design using Verilog
+- Digital Signal Processing
+- Machine Learning for Hardware Applications
 
 ---
 
@@ -99,6 +112,13 @@ Actively involved in organizing and coordinating technical, educational and awar
 - Financial Literacy and Technology Trends
 
 ---
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyashetraddi2006&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyashetraddi2006&layout=compact&theme=tokyonight)
 
 ## 🤝 Let's Connect!
 
